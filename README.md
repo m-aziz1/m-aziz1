@@ -38,7 +38,9 @@ Just a student building things I find engaging. Currently interested in embedded
     * (More coming soon... once the machines are ready to learn.)
 
 ---
-<p align="center">
-  <img src="https://github.com/m-aziz1/m-aziz1/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/m-aziz1/m-aziz1/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/m-aziz1/m-aziz1/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/m-aziz1/m-aziz1/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
