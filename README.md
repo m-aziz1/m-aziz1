@@ -11,7 +11,7 @@
 
 
 <p >
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB5cTkzanluenZhZWFsc2FzYWhtazc5aHZjZzl5dTUwM2IxYmFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJvNHBmeHdwbzZvdTMzdHlpenZoMnpkMWxleHkzMGhkbWhqdHBzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="300"/>
 </p>
 
 Just a student building things I find engaging. Currently interested in embedded systems, machine learning, and web dev.
