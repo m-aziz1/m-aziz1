@@ -20,20 +20,20 @@ Just a student building things I find engaging. Currently interested in embedded
 
 ### Some things I've built:
 
-* **🤖 IoT & Hardware**
+* **IoT & Hardware**
     * [**SafeSys**](https://github.com/m-aziz1/safesys) - An IoT anti-theft locker that won a hackathon
     * [**UniCrypt**](https://github.com/m-aziz1/hacked-2025) - Used a blockchain and a custom circuit to create a physical authentication/payment system
 
-* **🎮 Game Dev**
+* **Game Dev**
     * [**Bomberman**](https://github.com/m-aziz1/Bomberman) - A recreation of the classic Bomberman game in Unity 
     * [**2D Platformer**](https://github.com/m-aziz1/2D_Platformer_Game) - A 2D platformer I built to teach a course on Godot game dev
 
 
-* **🌐 Web Dev**
+* **Web Dev**
     * [**Bear Asks**](https://devpost.com/software/bear-asks) - An office hour scheduler for students and professors
     * [**Periodic Table**](https://github.com/m-aziz1/Periodic-Table) - An interactive recreation of the Alberta Chemistry 30 data booklet 
 
-* **🧠 Machine Learning & AI**
+* **Machine Learning & AI**
     * [**Healthcare Terms Classifer**](https://github.com/m-aziz1/Healthcare-Terms-Classification) - Simple ML Model to classify health directory terms 
     * (More coming soon... once the machines are ready to learn.)
 
