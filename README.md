@@ -2,12 +2,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ihsan-aziz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin" alt="Linkedin">
   </a>
   <a href="https://ihsanaziz.com/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-3B7EBF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-dd92dd?style=flat-square&logo=bitrise" alt="Portfolio site">
   </a>
 </p>
+
 
 <p >
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB5cTkzanluenZhZWFsc2FzYWhtazc5aHZjZzl5dTUwM2IxYmFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="300"/>
@@ -35,4 +36,9 @@ Just a student building things I find engaging. Currently interested in embedded
 * **🧠 Machine Learning & AI**
     * [**Healthcare Terms Classifer**](https://github.com/m-aziz1/Healthcare-Terms-Classification) - Simple ML Model to classify health directory terms 
     * (More coming soon... once the machines are ready to learn.)
+
+---
+<p align="center">
+  <img src="https://github.com/m-aziz1/m-aziz1/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
