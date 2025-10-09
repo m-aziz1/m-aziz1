@@ -1,3 +1,4 @@
+<!-- 
 ### I make computer go beep boop
 
 <p align="left">
@@ -43,4 +44,4 @@ Just a student building things I find engaging. Currently interested in embedded
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/m-aziz1/m-aziz1/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://github.com/m-aziz1/m-aziz1/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-
+-->
